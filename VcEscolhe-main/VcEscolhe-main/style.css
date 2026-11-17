@@ -1,0 +1,51 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ebecee;
+    font-weight: bold;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 24px;
+    background: rgb(252, 255, 255);
+    border-radius: 12px;
+    
+}
+
+
+   label {
+      width: 100%;
+      padding: 10px;
+      box-sizing: border-box;
+      border: 1px solid #999;
+      border-radius: 5px;
+      font-size: 15px;
+      
+    }
+input {
+    background-color: #f2f4f7;
+    width: 95%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-bottom: #073266;
+    border-radius: 6px;
+
+ }
+.bnt_Calcular {
+    bvcx border-radius: 15%;
+    background-color: aquamarine;
+    margin-left: 35%;
+}
+h1 {
+    color: rgb(48, 24, 155);
+    text-align: center;
+    text-shadow: #073266;
+}
+
+#resultado {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+
+}
